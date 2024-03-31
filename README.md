@@ -4,4 +4,4 @@ Reason:
   1. No players
   2. No Minecraft hype
   3. Secret(new server starting)
-### Owner ### Martinko1006
+### Owner [Martinko1006](https://github.com/Grizlikk/Batch-web)
